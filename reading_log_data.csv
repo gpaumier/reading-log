@@ -1,4 +1,4 @@
-date,cle,page_début,page_fin,pages_total
+date,key,begin_read,end_read,pages_total
 2015-01-01,Meadows2008,1,18,
 2015-10-07,Okoli2009,,,
 2015-10-08,Okoli2012,1,19,
