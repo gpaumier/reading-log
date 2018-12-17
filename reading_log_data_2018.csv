@@ -99,7 +99,7 @@ date,key,begin_read,end_read,pages_total
 2018-10-08,KinzerXXXX,157,169,
 2018-10-14,CoppXXXX,1,6,
 2018-10-15,Taylor2015,14,52,
-2018-10-15,CoppXXXX,7,22
+2018-10-15,CoppXXXX,7,22,
 2018-10-16,Taylor2015,52,119,
 2018-10-16,CoppXXXX,23,30,
 2018-10-17,Taylor2015,119,232,232
@@ -142,7 +142,7 @@ date,key,begin_read,end_read,pages_total
 2018-11-26,TiroleXXXX,33,91,
 2018-11-28,Pallotta,29,58,
 2018-11-28,Kelly2010,267,285,
-2018-11-28,TiroleXXXX,91,121
+2018-11-28,TiroleXXXX,91,121,
 2018-11-29,TiroleXXXX,122,152,
 2018-11-30,TiroleXXXX,153,192,
 2018-12-01,TiroleXXXX,193,264,
