@@ -51,7 +51,7 @@ date,key,begin_read,end_read,pages_total
 2020-04-06,Tetlock2015,246,289,289
 2020-04-06,GrahamXXXX,-5,46,
 2020-04-07,GrahamXXXX,47,87,
-2020-04-08,HomerDixonXXXX,1,, FIXME
+2020-04-08,HomerDixon2006,1,16,
 2020-04-09,GrahamXXXX,88,197,
 2020-04-10,GrahamXXXX,197,309,
 2020-04-13,Hartung2011,1,30,
@@ -79,7 +79,7 @@ date,key,begin_read,end_read,pages_total
 2020-04-25,Saadia2016,-5,28,
 2020-04-26,Bueno2010,66,85,
 2020-04-27,Bueno2010,86,102,
-2020-04-28,Bueno2010,103,170
+2020-04-28,Bueno2010,103,170,
 2020-04-29,Bueno2010,171,181,
 2020-04-30,Bueno2010,181,247,247
 2020-05-01,Burgis2015,1,28,
