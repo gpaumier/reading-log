@@ -202,3 +202,7 @@ date,key,begin_read,end_read,pages_total
 2021-05-23,MidnighterApollo2016TPB,1,6,6
 2021-05-23,Pomerantsev2014,141,164,
 2021-05-23,Birth1999,80,93,
+2021-05-23,Asimov1950,255,272,272
+2021-05-24,Pomerantsev2014,164,239,239
+2021-05-24,Birth1999,94,98,
+2021-05-24,Asimov191995,1,17,
