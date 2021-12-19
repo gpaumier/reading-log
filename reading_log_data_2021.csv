@@ -505,3 +505,8 @@ date,key,begin_read,end_read,pages_total
 2021-12-07,Asimov1993,1,17,
 2021-12-08,Hawkeye2012,0,1,
 2021-12-08,Asimov1993,17,39,
+2021-12-09,Asimov1993,39,49,
+2021-12-10,Asimov1993,50,59,
+2021-12-11,McCulloch2019,1,44,
+2021-12-16,McCulloch2019,44,87,
+
