@@ -509,4 +509,7 @@ date,key,begin_read,end_read,pages_total
 2021-12-10,Asimov1993,50,59,
 2021-12-11,McCulloch2019,1,44,
 2021-12-16,McCulloch2019,44,87,
-
+2021-12-20,McCulloch2019,87,108,
+2021-12-26,McCulloch2019,109,146,
+2021-12-27,McCulloch2019,146,179,
+2021-12-27,Requero1995,1,22,
