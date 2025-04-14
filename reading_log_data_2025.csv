@@ -90,3 +90,7 @@ date,key,begin_read,end_read,pages_total
 2025-04-07,Bernhardt2020,178,185,
 2025-04-08,Bernhardt2020,185,189,189,
 2025-04-09,Campbell2008,-3,4,
+2025-04-10,Campbell2008,4,6,
+2025-04-11,Campbell2008,6,10,
+2025-04-13,Calvez2016,-11,5,
+2025-04-13,Campbell2008,10,12,
